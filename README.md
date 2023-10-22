@@ -1,1 +1,1 @@
-# yanshops
+# ecommerce-shop-starter
